@@ -1,5 +1,7 @@
 # Validator App
 
+![screenshot](/img/app_screenshot.png)
+
 The Validator App uses [Alloy](https://www.alloy.com/) to provide a quick decision on U.S.-based credit applications by analyzing a candidate's risk based on the following personal information:
 
 - First Name
